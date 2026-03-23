@@ -771,7 +771,6 @@ class DataFetcherManager:
             efinance,
             akshare,
             tushare,
-            pytdx,
             baostock,
             yfinance,
         ]
